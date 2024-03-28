@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-diaa1162&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-diaa1162" /> </p>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-diaa-82906a220/](https://www.linkedin.com/in/mohamed-diaa-82906a220/)
+- 📝 I regularly write articles on <a herf="https://www.linkedin.com/in/mohamed-diaa-82906a220/](https://www.linkedin.com/in/mohamed-diaa-82906a220/">Linked In</a>
 
 - 📫 How to reach me **mohameddya20@gmail.com**
 
